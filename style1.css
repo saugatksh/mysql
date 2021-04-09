@@ -1,0 +1,30 @@
+body{
+	background: grey;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+form{
+	width: 350px;
+	border: 5px solid #ccc;
+	padding: 50px;
+	background: #fff;
+	border-radius:10px;  
+}
+h5{
+	
+	
+}
+button{
+	float: right;
+	
+}
+.button:hover{
+	color: grey;
+	opacity: .5;
+}
+*{
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
