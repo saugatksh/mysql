@@ -14,7 +14,7 @@ if (!isset($_SESSION['pname'])) {
  </head>
  <body>
  	<a class="logout" href="logout.php">Log Out</a>
- <h1>WelCome</h1>
+ <href="index.html">
  </div>
  </body>
  </html>
