@@ -15,7 +15,7 @@
 				<label>Phone</label>
 				<input type="number" name="pnum"  required><br><br>
 			
-			<button type="submit" class="btn btn-primary">Sign up</button>	
+			<button type="submit" >Sign up</button>	
 
 			</form>
 	
